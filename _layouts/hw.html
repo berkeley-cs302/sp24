@@ -1,0 +1,26 @@
+---
+layout: base
+---
+
+
+<style>
+  html {
+    min-height: 100%;
+    padding: 16px;
+    border-left: 16px solid var(--berkeley-blue);
+    border-right: 16px solid var(--california-gold);
+  }
+</style>
+
+<nav class="col-lg-8 mx-auto p-1">
+  <a href="{{ site.url }}">˿ Home</a>
+</nav>
+
+<main class="col-lg-8 mx-auto p-3 py-md-5">
+  <h1>HW{{ page.number }}: {{ page.title }}
+    <br>
+    <small>CS302, {{ site.semester }}</small>
+  </h1>
+
+  {{ content }}
+</main>

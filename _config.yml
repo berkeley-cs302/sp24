@@ -1,5 +1,9 @@
 
 
+url: https://cs302.org
+base_path: /sp24
+semester: Spring 2023
+
 title: CS 302 | Spring 2024
 author: Michael Ball, Dan Garcia
 description: Designing Computer Science Education
@@ -17,3 +21,18 @@ staff:
     pronouns: he/him
     email: ddgarcia@berkeley.edu
     role: co-instructor
+
+
+## TODO: CURRENTLY NOT USED...
+google_drive_resources: https://
+google_drive_submissions: https://
+
+assignments:
+  - name: HW1
+    due_date: due_date_1
+    peer_feedback_due_date: peer_feedback_1
+    responses_document: responses_1
+  - name: HW2
+    due_date: due_date_2
+    peer_feedback_due_date: peer_feedback_2
+    responses_document: responses_2

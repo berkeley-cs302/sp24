@@ -25,16 +25,16 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 | 6    | 2/23 | Exams & Proctoring | [Homework 5][hw5] | (due TBD) |
 | 7    | 3/1  | TBD | [Homework 6][hw6] | (due TBD) |
 | 8    | 3/08 | Academic Misconduct (CSC guest) | [Homework 7][hw7] | (due TBD) |
-| 9    | 3/15 | **No Class (SIGCSE)** |  | (due TBD) |
-| 10   | 3/22 | **Spring Break** |  | (due TBD) |
-| 11   | 3/31 | DSP, Extensions, Incompletes |  | (due TBD) |
+| 9    | 3/15 |  DSP, Extensions, Incompletes | TBD | (due TBD) |
+| 10   | 3/22 | **No Class (SIGCSE)** | No Homework | (due TBD) |
+| 11   | 3/31 | **Spring Break** | No Homework | (due TBD) |
 | 12   | 4/7  | Accessibility & Inclusion | [Homework 8][hw8] | (due TBD) |
 | 13   | 4/14 | Surveys & Final Grading | [Homework 9][hw9] | (due TBD) |
 | 14   | 4/21 | TBD | [Homework 10][hw10] | (due TBD) |
-| 15   | 4/28 | "Things We Wish We Had Known…" (Panel) |  | (due TBD) |
+| 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | TBD | (due TBD) |
 | 16   | 5/5  | RRR Week | No Homework | (due TBD) |
-| 17   | 5/12 | Finals Week | | (due TBD) |
-| 18   | 6/13-5/16  | June Checkin | | (due TBD) |
+| 17   | 5/12 | Finals Week | No Homework |  |
+| 18   | 6/13-5/16  | June Checkin | | |
 
 
 [hw1]: https://docs.google.com/document/d/1sGuqNcIH5D8qClo9z84ZqbAAc3Eak73HCX4zq05MaUo/preview
