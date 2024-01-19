@@ -1,4 +1,5 @@
-# CS302 Spring 2023
+# CS302 Spring 2024
+## https://cs302.org/sp24/
 
 The most basic Jekyll site ever.
 
@@ -6,4 +7,6 @@ The most basic Jekyll site ever.
 2. `gem install jekyll`
 3. `jekyll serve`
 
-Lives at https://cs302.org/sp23/
+## TODOs:
+
+* move docs descriptions to md

@@ -1,41 +1,40 @@
 ---
 lang: en
-title: "CS 302: Spring 2023"
+title: "CS 302: Spring 2024"
 layout: default
 ---
 
 {:#calendar .bg-primary .text-light .p-3 .mb-3}
 ## **Tenative** Calendar
 
-**Class Meetings: 10am-12pm, 166 Social Sciences Every Friday**
+**Class Meetings: 1-3pm, 606 Soda every Friday**
 
 Blank rows will be filled in soon, though topics may change based on
 need and guest speakers.
 
-_Homework assignments which say "Spring 2022" at the top are last years versions. The dates, and minor details will change!_
+_Homework assignments which say "Spring 2023" at the top are last years versions. The dates, and minor details will change!_
 
 {:.table .table-striped}
 | Week | Date | Class topic | Homework |
 |:-----|------|-------------|:---------:|
-| 1    | 1/20 | No Class | No Homework |
-| 2    | 1/27 | Introductions, 302 overview | [Homework 1][hw1] (Due Weds, Feb 1) |
-| 3    | 2/3  | Logistics & class formats | [Homework 2][hw2] (Due Weds, Feb 8) |
-| 4    | 2/10 | Hiring and interviewing | [Homework 3][hw3] (Due Weds, Feb 15) |
-| 5    | 2/17 | Exam writing and Lecturing | [Homework 4][hw4] (Due Weds, Feb 22) |
-| 6    | 2/24 | Exams & Proctoring | [Homework 5][hw5] (Due Weds, Mar 1) |
-| 7    | 3/3  | Union Bargaining Discussion | [Homework 6][hw6] (Due Weds, Mar 8) |
-| 8    | 3/10 | Academic Misconduct (CSC guest) | [Homework 7][hw7] (Due Weds, Mar 15 / Mar 25) |
-| 9    | 3/17 | DSP, Extensions, Incompletes | None (Due Weds, Mar 23) |
-| 10   | 3/24 | **No Class** | None (Due Weds, April 5) |
-| 11   | 3/31 | **Spring Break** | No Homework |
-| 12   | 4/7  | Accessibility & Inclusion | [Homework 8][hw8] (Due Weds, April 12) |
-| 13   | 4/14 | Surveys & Final Grading | [Homework 9][hw9] (Due Weds, April 19) |
-| 14   | 4/21 | TBD | [Homework 10][hw10] (Due Weds, April 26) |
+| 1    | 1/19 | Info Meeting | No Homework |
+| 2    | 1/26 | Introductions, 302 overview | [Homework 1][hw1] (Due Weds, Feb 1) |
+| 3    | 2/2  | Logistics & class formats | [Homework 2][hw2] (Due Weds, Feb 8) |
+| 4    | 2/09 | Hiring and interviewing | [Homework 3][hw3] (Due Weds, Feb 15) |
+| 5    | 2/16 | Exam writing and Lecturing | [Homework 4][hw4] (Due Weds, Feb 22) |
+| 6    | 2/23 | Exams & Proctoring | [Homework 5][hw5] (Due Weds, Mar 1) |
+| 7    | 3/1  | Union Bargaining Discussion | [Homework 6][hw6] (Due Weds, Mar 8) |
+| 8    | 3/08 | Academic Misconduct (CSC guest) | [Homework 7][hw7] (Due Weds, Mar 15 / Mar 25) |
+| 9    | 3/15 | **No Class (SIGCSE)** |  |
+| 10   | 3/22 | **Spring Break** |  |
+| 11   | 3/31 | DSP, Extensions, Incompletes |  |
+| 12   | 4/7  | Accessibility & Inclusion | [Homework 8][hw8] |
+| 13   | 4/14 | Surveys & Final Grading | [Homework 9][hw9] |
+| 14   | 4/21 | TBD | [Homework 10][hw10] |
 | 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | No Homework |
 | 16   | 5/5  | RRR Week | No Homework |
 | 17   | 5/12 | Finals Week | |
-| 18   | 5/15-5/19  | May Meeting | |
-| 19   | 6/13-5/16  | June Meeting | |
+| 18   | 6/13-5/16  | June Checkin | |
 
 
 [hw1]: https://docs.google.com/document/d/1sGuqNcIH5D8qClo9z84ZqbAAc3Eak73HCX4zq05MaUo/preview
@@ -70,16 +69,15 @@ In PDF:  → Google Docs & Sheets: Replace /edit with /export?format=pdf
         <div class="col">
             <img src="https://cs88-website.github.io/sp22/assets/images/michael-ball.jpg" alt="Photo of Michael Ball" height="100"><br>
             Michael Ball<br>
-            (Co-lecturer)<br>
             <a href="mailto:ball@berkeley.edu">ball@berkeley.edu</a><br>
             Pronouns: he/him
         </div>
         <div class="col">
-            <img src="https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/nweaver.jpg" alt="Photo of Nick Weaver" height="100"><br>
+            <!-- <img src="https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/nweaver.jpg" alt="Photo of Nick Weaver" height="100"><br>
             Nick Weaver<br>
             (Co-lecturer)<br>
             <a href="mailto:nveaver@berkeley.edu">nveaver@berkeley.edu</a><br>
-            Pronouns: he/him
+            Pronouns: he/him -->
         </div>
     </div>
 </div>
