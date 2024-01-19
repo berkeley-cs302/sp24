@@ -1,0 +1,19 @@
+
+
+title: CS 302 | Spring 2024
+author: Michael Ball, Dan Garcia
+description: Designing Computer Science Education
+
+# markdown: rdiscount
+
+staff:
+  - name: Michael Ball
+    image: images/michael.jpg
+    pronouns: he/him
+    email: ball@berkeley.edu
+    role: co-instructor
+  - name: Dan Garcia
+    image: images/dan.jpg
+    pronouns: he/him
+    email: ddgarcia@berkeley.edu
+    role: co-instructor

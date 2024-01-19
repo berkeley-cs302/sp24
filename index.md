@@ -4,7 +4,7 @@ title: "CS 302: Spring 2024"
 layout: default
 ---
 
-{:#calendar .bg-primary .text-light .p-3 .mb-3}
+{:#calendar .bg-primary .text-light .p-3 .mb-3 .mt-3}
 ## **Tenative** Calendar
 
 **Class Meetings: 1-3pm, 606 Soda every Friday**
@@ -15,26 +15,26 @@ need and guest speakers.
 _Homework assignments which say "Spring 2023" at the top are last years versions. The dates, and minor details will change!_
 
 {:.table .table-striped}
-| Week | Date | Class topic | Homework |
-|:-----|------|-------------|:---------:|
-| 1    | 1/19 | Info Meeting | No Homework |
-| 2    | 1/26 | Introductions, 302 overview | [Homework 1][hw1] (Due Weds, Feb 1) |
-| 3    | 2/2  | Logistics & class formats | [Homework 2][hw2] (Due Weds, Feb 8) |
-| 4    | 2/09 | Hiring and interviewing | [Homework 3][hw3] (Due Weds, Feb 15) |
-| 5    | 2/16 | Exam writing and Lecturing | [Homework 4][hw4] (Due Weds, Feb 22) |
-| 6    | 2/23 | Exams & Proctoring | [Homework 5][hw5] (Due Weds, Mar 1) |
-| 7    | 3/1  | Union Bargaining Discussion | [Homework 6][hw6] (Due Weds, Mar 8) |
-| 8    | 3/08 | Academic Misconduct (CSC guest) | [Homework 7][hw7] (Due Weds, Mar 15 / Mar 25) |
-| 9    | 3/15 | **No Class (SIGCSE)** |  |
-| 10   | 3/22 | **Spring Break** |  |
-| 11   | 3/31 | DSP, Extensions, Incompletes |  |
-| 12   | 4/7  | Accessibility & Inclusion | [Homework 8][hw8] |
-| 13   | 4/14 | Surveys & Final Grading | [Homework 9][hw9] |
-| 14   | 4/21 | TBD | [Homework 10][hw10] |
-| 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | No Homework |
-| 16   | 5/5  | RRR Week | No Homework |
-| 17   | 5/12 | Finals Week | |
-| 18   | 6/13-5/16  | June Checkin | |
+| Week | Date | Class topic | Homework | Due Date |
+|:-----|------|-------------|:---------:|:---------:|
+| 1    | 1/19 | Info Meeting | No Homework | (due TBD) |
+| 2    | 1/26 | Introductions, 302 overview | [Homework 1][hw1] | (due TBD) |
+| 3    | 2/2  | Logistics & class formats | [Homework 2][hw2] | (due TBD) |
+| 4    | 2/09 | Hiring and interviewing | [Homework 3][hw3] | (due TBD) |
+| 5    | 2/16 | Exam writing and Lecturing | [Homework 4][hw4] | (due TBD) |
+| 6    | 2/23 | Exams & Proctoring | [Homework 5][hw5] | (due TBD) |
+| 7    | 3/1  | TBD | [Homework 6][hw6] | (due TBD) |
+| 8    | 3/08 | Academic Misconduct (CSC guest) | [Homework 7][hw7] | (due TBD) |
+| 9    | 3/15 | **No Class (SIGCSE)** |  | (due TBD) |
+| 10   | 3/22 | **Spring Break** |  | (due TBD) |
+| 11   | 3/31 | DSP, Extensions, Incompletes |  | (due TBD) |
+| 12   | 4/7  | Accessibility & Inclusion | [Homework 8][hw8] | (due TBD) |
+| 13   | 4/14 | Surveys & Final Grading | [Homework 9][hw9] | (due TBD) |
+| 14   | 4/21 | TBD | [Homework 10][hw10] | (due TBD) |
+| 15   | 4/28 | "Things We Wish We Had Known…" (Panel) |  | (due TBD) |
+| 16   | 5/5  | RRR Week | No Homework | (due TBD) |
+| 17   | 5/12 | Finals Week | | (due TBD) |
+| 18   | 6/13-5/16  | June Checkin | | (due TBD) |
 
 
 [hw1]: https://docs.google.com/document/d/1sGuqNcIH5D8qClo9z84ZqbAAc3Eak73HCX4zq05MaUo/preview
@@ -61,28 +61,18 @@ In PDF:  → Google Docs & Sheets: Replace /edit with /export?format=pdf
 → Google Slides & Drawings: Replace /edit with /export/pdf
  -->
 
-{:#course-staff .bg-primary .text-light .p-3 .mb-3}
+{:#course-staff .bg-primary .text-light .p-3 .mb-3 .mt-3}
 ## Course staff
 
 <div class="container">
-    <div class="row">
-        <div class="col">
-            <img src="https://cs88-website.github.io/sp22/assets/images/michael-ball.jpg" alt="Photo of Michael Ball" height="100"><br>
-            Michael Ball<br>
-            <a href="mailto:ball@berkeley.edu">ball@berkeley.edu</a><br>
-            Pronouns: he/him
-        </div>
-        <div class="col">
-            <!-- <img src="https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/nweaver.jpg" alt="Photo of Nick Weaver" height="100"><br>
-            Nick Weaver<br>
-            (Co-lecturer)<br>
-            <a href="mailto:nveaver@berkeley.edu">nveaver@berkeley.edu</a><br>
-            Pronouns: he/him -->
-        </div>
-    </div>
+  <div class="row">
+    {% for staff in site.staff %}
+      {% include staff.html staff=staff %}
+    {%- endfor %}
+  </div>
 </div>
 
-{:#grading .bg-primary .text-light .p-3 .mb-3}
+{:#grading .bg-primary .text-light .p-3 .mb-3 .mt-3}
 ## Grading
 
 For the most part, we would prefer to teach this course without grades.
@@ -98,7 +88,7 @@ activities will contribute to your grade as follows:
 | Review others' homework | 20% |
 | Attendance & participation | 20% |
 
-{:#overview .bg-primary .text-light .p-3 .mb-3}
+{:#overview .bg-primary .text-light .p-3 .mb-3 .mt-3}
 ## Overview
 
 The course catalog entry for **CS302**:
@@ -195,7 +185,7 @@ Acknowledgment, we affirm Indigenous sovereignty and will work to hold
 University of California Berkeley more accountable to the needs of
 American Indian and Indigenous peoples.
 
-{:#resources .bg-primary .text-light .p-3 .mb-3}
+{:#resources .bg-primary .text-light .p-3 .mb-3 .mt-3}
 ## Resources
 
 - Tools for Teaching (second edition), by Barbara Gross Davis,

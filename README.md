@@ -9,4 +9,4 @@ The most basic Jekyll site ever.
 
 ## TODOs:
 
-* move docs descriptions to md
+* move hw google docs content to md
