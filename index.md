@@ -17,8 +17,8 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 {:.table .table-striped}
 | Week | Date | Class topic | Homework | Due Date |
 |:-----|------|-------------|:---------:|:---------:|
-| 1    | 1/19 | Info Meeting | No Homework | (due TBD) |
-| 2    | 1/26 | Introductions, 302 overview | [Homework 1][hw1] | (due TBD) |
+| 1    | 1/19 | No Meeting | No Homework | (due TBD) |
+| 2    | 1/26 | Info, 302 overview | [Homework 1][hw1] | (due TBD) |
 | 3    | 2/2  | Logistics & class formats | [Homework 2][hw2] | (due TBD) |
 | 4    | 2/09 | Hiring and interviewing | [Homework 3][hw3] | (due TBD) |
 | 5    | 2/16 | Exam writing and Lecturing | [Homework 4][hw4] | (due TBD) |
