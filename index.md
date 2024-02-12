@@ -17,8 +17,8 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 {:.table .table-striped}
 | Week | Date | Class topic | Homework | Due Date |
 |:-----|------|-------------|:---------:|:---------:|
-| 1    | 1/19 | No Meeting | No Homework | (due TBD) |
-| 2    | 1/26 | Info, 302 overview | No Homework | (due TBD) |
+| 1    | 1/19 | No Meeting | No Homework | (none) |
+| 2    | 1/26 | Info, 302 overview | No Homework | (none) |
 | 3    | 2/2  | Logistics & class formats | [Homework 1][hw1] | (due 2/14) |
 | 4    | 2/09 | Hiring and interviewing | [Homework 2][hw2] | (due 2/21) |
 | 5    | 2/16 | Exam writing and Lecturing | [Homework 3][hw3] | (due 2/28) |
@@ -26,17 +26,17 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 | 7    | 3/1  | TBD | [Homework 5][hw5] | (due TBD) |
 | 8    | 3/08 | Academic Misconduct (CSC guest) | [Homework 6][hw6] | (due TBD) |
 | 9    | 3/15 |  DSP, Extensions, Incompletes | [Homework 7][hw7] | (due TBD) |
-| 10   | 3/22 | **No Class (SIGCSE)** | No Homework | (due TBD) |
-| 11   | 3/31 | **Spring Break** | No Homework | (due TBD) |
+| 10   | 3/22 | **No Class (SIGCSE)** | No Homework | (none) |
+| 11   | 3/31 | **Spring Break** | No Homework | (none) |
 | 12   | 4/7  | Accessibility & Inclusion | [Homework 8][hw8] | (due TBD) |
 | 13   | 4/14 | Surveys & Final Grading | [Homework 9][hw9] | (due TBD) |
 | 14   | 4/21 | TBD | [Homework 10][hw10] | (due TBD) |
 | 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | TBD | (due TBD) |
-| 16   | 5/5  | RRR Week | No Homework | |
-| 17   | 5/12 | Finals Week | No Homework | |
+| 16   | 5/5  | RRR Week | No Homework | (none) |
+| 17   | 5/12 | Finals Week | No Homework | (none) |
 
 
-[hw1]: https://docs.google.com/document/d/1sGuqNcIH5D8qClo9z84ZqbAAc3Eak73HCX4zq05MaUo/preview
+[hw1]: /sp24/hw/hw01/
 [hw2]: https://docs.google.com/document/d/1bCnQBxWNwIWAPJvZ4JnmY87X4MdMXGllJwfpu6iDxY8/preview
 [hw3]: https://docs.google.com/document/d/1rK-5MS-DYWEHTO40rI1PdiX_lKjM7KDVrty5zNTd0Go/preview
 [hw4]: https://docs.google.com/document/d/1nq4Yq-gBIUkr3eG8ui5iQI3HiJlXR13dvHOKWL_Pgvg/preview
