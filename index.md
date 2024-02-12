@@ -36,7 +36,7 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 | 17   | 5/12 | Finals Week | No Homework | (none) |
 
 
-[hw1]: /sp24/hw/hw01/
+[hw1]: /sp24/hw/hw1/
 [hw2]: https://docs.google.com/document/d/1bCnQBxWNwIWAPJvZ4JnmY87X4MdMXGllJwfpu6iDxY8/preview
 [hw3]: https://docs.google.com/document/d/1rK-5MS-DYWEHTO40rI1PdiX_lKjM7KDVrty5zNTd0Go/preview
 [hw4]: https://docs.google.com/document/d/1nq4Yq-gBIUkr3eG8ui5iQI3HiJlXR13dvHOKWL_Pgvg/preview
