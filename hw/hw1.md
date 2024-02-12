@@ -1,9 +1,11 @@
 ---
 lang: en
-title: Test Homework
+title: Homework 1 -
 number: 1
 layout: hw
 due_date: Wednesday, February 14, 2024
+permalink: hw/hw1/
+
 ---
 
 <!-- {{ page.number }} -->
@@ -26,6 +28,8 @@ Pro tip: Homeworks will always be due on Wednesdays, so it's probably best if yo
 ### Implicit Bias Training
 
 [Complete the implicit bias training.](https://ucnet.universityofcalifornia.edu/working-at-uc/your-career/talent-management/professional-development/managing-implicit-bias.html#:~:text=The%20UC%20Managing%20Implicit%20Bias,its%20impact%20at%20the%20University.&text=The%20series%20contains%20the%20following,to%2020%20minutes%20in%20length)
+
+You will need to click through a few times to get to the UC Berkeley login for the training website.
 
 Please submit a screenshot of the completion screen (or confirmation email) to show that you have finished this (with some sort of evidence that it is in fact your own screen...). Place your screenshot in this folder. Each person writes one new thing they learned in the response document.
 
