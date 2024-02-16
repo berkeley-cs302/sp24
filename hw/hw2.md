@@ -11,6 +11,9 @@ responses_doc: https://docs.g23oogle.com/document/d/1-S5Lz2hitWqoMdFV2Zs6p_xafOu
 
 <!-- Readings w/ responses -->
 
+[hw2_template]: https://docs.google.com/document/d/1ubZFa819iKRs6rg9LOHyCqCpWqt-SmQ7n9519a8a4sM/template/preview
+[hw2_design_issues]: https://drive.google.com/file/d/14Oa0nldrmOiluNyWw91e7MkkUgQroIfc/view
+[hw2_clancy_history]: https://drive.google.com/file/d/1gQhjNMoe_1qw1nJs5uip8m23Vs_ofqC-/view?usp=sharing
 
 ## Creating your Summer Class Format
 
@@ -18,7 +21,7 @@ In this assignment you will draft the format for your summer course. This will i
 
 One recommendation is to start off with the Su21 offering of the course as the base and modify as you see fit. Then check out the past few semesters for inspiration, especially pre-Sp20 since that was in person. Also check out other course websites for how they format their course which can be found by searching “cs \$course_number berkeley” on a search engine.
 
-Here is a [<u>template</u>](https://docs.google.com/document/d/19MWjwdlZgJxjaEf030cdQci8pv6DcjXoG-f0phHMRjw/edit#heading=h.kju83aan1jre) for your team to make a copy of. Make sure to add a link to your course format document in the responses document. **Store it in the HW 2 Responses folder.**
+Here is a [template][hw2_template] for your team to make a copy of. Make sure to add a link to your course format document in the responses document. **Store it in the HW 2 Responses folder.**
 
 ## Part 1: Weekly Schedule / Class Session Type
 
@@ -34,7 +37,7 @@ Lastly, what technology will you be using? How will you take attendance (will yo
 
 ## Part 2: Draft 8-week Course Calendar
 
-## Fill out the week by week topic breakdown and try to figure out where exams/projects fit in!
+**Fill out the week by week topic breakdown and try to figure out where exams/projects fit in!**
 
 ## Reach out to instructors
 
@@ -44,9 +47,9 @@ Reach out to experienced instructors/GSIs (email is probably best) to get course
 
 You can leave comments directly on these PDFs in google drive by clicking “Add comment” in the top right corner, highlighting an area you would like to comment on, and then leaving your comment
 
-- “[<u>Design Issues for Learning Environments</u>](https://drive.google.com/file/d/1FwSILCVkDnv0KmOCAIxYkWCyrCYaYSlZ/view?usp=share_link)”, by Allan Collins.
+- “[Design Issues for Learning Environments][hw2_design_issues]”, by Allan Collins.
 
-- “[<u>Evolution of the CS lower-division courses: 1983-1997</u>](https://drive.google.com/drive/u/1/folders/1bU3pFfuj28hGgdcLD1ueSevrULKqCYQn)”, by Michael Clancy.
+- “[Evolution of the CS lower-division courses: 1983-1997][hw2_clancy_history]”, by Michael Clancy.
 
 ## Reviewing each other’s course formats (Due 10:00 AM, Friday)
 
@@ -58,10 +61,7 @@ Since the course formats are due 11:59 PM, Wednesday, you will have until 10:00 
 
 ## Rubric (Do this for full credit)
 
-- (Team) Created [<u>course design with both parts</u>](https://docs.google.com/document/d/19MWjwdlZgJxjaEf030cdQci8pv6DcjXoG-f0phHMRjw/edit#heading=h.kju83aan1jre) and linked to it in the responses document (linked above)
-
-- (Individual) Left 1 or more comments on [<u>Collins reading</u>](https://drive.google.com/file/d/1FwSILCVkDnv0KmOCAIxYkWCyrCYaYSlZ/view?usp=share_link)
-
-- (Individual) Left 1 or more comments on [<u>Clancy reading</u>](https://drive.google.com/drive/u/1/folders/1bU3pFfuj28hGgdcLD1ueSevrULKqCYQn)
-
-- (Due 10:00 AM Friday) (Individual) Left 1 or more comments on two other course plan documents linked in the responses document
+- (Team) Created [course design with both parts][hw2_template] and linked to it in the responses document (linked above)
+- (Individual) Left 1 or more comments on [Collins reading][hw2_design_issues]
+- (Individual) Left 1 or more comments on [Clancy reading][hw2_clancy_history]
+- (Due 12 PM Friday) (Individual) Left 1 or more comments on two other course plan documents linked in the responses document
