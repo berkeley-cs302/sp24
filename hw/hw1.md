@@ -2,17 +2,11 @@
 lang: en
 title: Introduction
 number: 1
-permalink: /sp24/hw/hw1/
+permalink: /hw/hw1/
 layout: hw
 due_date: Wednesday, February 14, 2024
 peer_review_date: Friday, February 16, 2024
 responses_doc: https://docs.google.com/document/d/1-S5Lz2hitWqoMdFV2Zs6p_xafOuxLL-cxUqo4wKqoT0/edit
----
-
-* Due: 11:59 PM, Wednesday, February 14, 2024
-* [Homework 1 Responses Document]()
-* Review Peer Responses Due 12 PM, Friday, February 16, 2024
-
 ---
 
 ## Directions
