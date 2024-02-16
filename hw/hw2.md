@@ -6,7 +6,7 @@ layout: hw
 permalink: /hw/hw2/
 due_date: Wednesday, February 21, 2024
 peer_review_date: Friday, February 16, 2024
-responses_doc: https://docs.g23oogle.com/document/d/1-S5Lz2hitWqoMdFV2Zs6p_xafOuxLL-cxUqo4wKqoT0/edit
+responses_doc: https://docs.google.com/document/d/1-S5Lz2hitWqoMdFV2Zs6p_xafOuxLL-cxUqo4wKqoT0/edit
 ---
 
 <!-- Readings w/ responses -->
@@ -48,7 +48,6 @@ Reach out to experienced instructors/GSIs (email is probably best) to get course
 You can leave comments directly on these PDFs in google drive by clicking “Add comment” in the top right corner, highlighting an area you would like to comment on, and then leaving your comment
 
 - “[Design Issues for Learning Environments][hw2_design_issues]”, by Allan Collins.
-
 - “[Evolution of the CS lower-division courses: 1983-1997][hw2_clancy_history]”, by Michael Clancy.
 
 ## Reviewing each other’s course formats (Due 10:00 AM, Friday)
