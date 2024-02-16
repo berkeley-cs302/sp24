@@ -3,17 +3,14 @@ lang: en
 title: Planning Your Course
 number: 2
 layout: hw
+permalink: /sp24/hw/hw2/
 due_date: Wednesday, February 21, 2024
-permalink: hw/hw2/
+peer_review_date: Friday, February 16, 2024
+responses_doc: https://docs.g23oogle.com/document/d/1-S5Lz2hitWqoMdFV2Zs6p_xafOuxLL-cxUqo4wKqoT0/edit
 ---
 
-**Homework Due** **11:59 PM, Wednesday, February 21st**
+<!-- Readings w/ responses -->
 
-**Peer Comments Due** **12:00 PM, Friday, February 23rd**
-
-**Responses:** [**<u>Document</u>**](https://docs.google.com/document/d/1jld0kgt1dPz-w-rKNnlacTq2ExvgZnMrzmUjddAVLHs/edit) , [<u>Responses Folder</u>](https://drive.google.com/drive/folders/1FjNZ_8vn3CleYo4W2Xc2SPN-BaZkuLcB?usp=share_link)
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 ## Creating your Summer Class Format
 

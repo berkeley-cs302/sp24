@@ -1,21 +1,17 @@
 ---
 lang: en
-title: Homework 1 - Introduction
+title: Introduction
 number: 1
+permalink: /sp24/hw/hw1/
 layout: hw
 due_date: Wednesday, February 14, 2024
-permalink: hw/hw1/
-
----
-
-<!-- {{ page.number }} -->
-<!-- {{ site.assignments[{{ page.number }}] }} -->
-
+peer_review_date: Friday, February 16, 2024
+responses_doc: https://docs.google.com/document/d/1-S5Lz2hitWqoMdFV2Zs6p_xafOuxLL-cxUqo4wKqoT0/edit
 ---
 
 * Due: 11:59 PM, Wednesday, February 14, 2024
-* [Homework 1 Responses Document](https://docs.google.com/document/d/1-S5Lz2hitWqoMdFV2Zs6p_xafOuxLL-cxUqo4wKqoT0/edit)
-* Review Peer Responses Due 10 AM, Friday, February 16, 2024
+* [Homework 1 Responses Document]()
+* Review Peer Responses Due 12 PM, Friday, February 16, 2024
 
 ---
 

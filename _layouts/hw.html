@@ -10,6 +10,9 @@ layout: base
     border-left: 16px solid var(--berkeley-blue);
     border-right: 16px solid var(--california-gold);
   }
+  h1, h2, h3, h4, hr {
+    color: var(--berkeley-blue);
+  }
 </style>
 
 <nav class="col-lg-8 mx-auto p-1">
@@ -21,6 +24,15 @@ layout: base
     <br>
     <small>CS302, {{ site.semester }}</small>
   </h1>
+
+  <section>
+    <ul>
+      <li><strong>Due Date: </strong>11:59 PM on {{ page.due_date }}</li>
+      <li><strong><a href="{{ page.responses_doc }}" target="_blank">Homework {{ page.number }} Responses Document</a></strong></li>
+      <li><strong>Peer Comments Due: </strong> 12 PM on {{ page.peer_review_date }} </li>
+    </ul>
+  </section>
+  <hr>
 
   {{ content }}
 </main>

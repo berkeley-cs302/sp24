@@ -23,10 +23,10 @@ staff:
     role: co-instructor
 
 
-## TODO: CURRENTLY NOT USED...
-google_drive_resources: https://
-google_drive_submissions: https://
+# This should be shared view-only just to students.
+google_drive_folder: https://drive.google.com/drive/u/1/folders/1Jf5sz5zDdEVVa6G8gMv4_H8gWFPeZDcc
 
+## TODO: CURRENTLY NOT USED...
 assignments:
   - name: HW1
     due_date: due_date_1
