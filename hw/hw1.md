@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Homework 1 -
+title: Homework 1 - Introduction
 number: 1
 layout: hw
 due_date: Wednesday, February 14, 2024
