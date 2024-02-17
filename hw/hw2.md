@@ -6,7 +6,8 @@ layout: hw
 permalink: /hw/hw2/
 due_date: Wednesday, February 21, 2024
 peer_review_date: Friday, February 16, 2024
-responses_doc: https://docs.google.com/document/d/1-S5Lz2hitWqoMdFV2Zs6p_xafOuxLL-cxUqo4wKqoT0/edit
+responses_doc: https://docs.google.com/document/d/1eI1e7bB-JQDdt7wLD3aX27KQdAoW5Ti7ZBBRDdq0O8g/edit?usp=sharing
+https://docs.google.com/document/d/1-S5Lz2hitWqoMdFV2Zs6p_xafOuxLL-cxUqo4wKqoT0/edit#heading=h.gjdgxs
 ---
 
 <!-- Readings w/ responses -->
