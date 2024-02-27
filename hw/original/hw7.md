@@ -8,7 +8,7 @@ CS302, Spring 2023
 
 **Responses:** [**<u>Document</u>**](https://docs.google.com/document/d/1H1512Tejmn3Z-57QK8SqHOxvak8ooHaT2sC5bxCewT8/edit)
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---
 
 The departmental summer staff form is soon to be released, so let’s get ready for applications/interviewing/hiring!
 

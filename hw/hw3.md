@@ -1,12 +1,17 @@
-Homework 3: Hiring Preparation
+lang: en
+title: Hiring Prep
+number: 1
+permalink: /hw/hw3/
+layout: hw
+due_date: Wednesday, February 29, 2024 (+ a few)
+peer_review_date: Friday, March 1, 2024
+responses_doc: https://docs.google.com/document/d/1yCunk2Zgfr3eopwufNhUTYHJ8b0TT-p1HFqiXHDceb4/edit
+---
 
-CS302, Spring 2023
-
-**Homework Due** **11:59 PM, Wednesday, February 15th**
-
-**Peer Comments Due** **10:00 AM, Friday, February 17th (Right before class)**
-
-**Responses:** [**<u>Document</u>**](https://docs.google.com/document/d/1YH72ag6yll1ddFCdMzKGYLmUOOf605_l5Qs-4UKr_B0/edit#heading=h.wblpfjujul91), [**<u>Hiring Forms Folder</u>**](https://drive.google.com/drive/folders/1Yo66T3Pkb7Ul3Yyaq0gztXTseLV7hxEm?usp=share_link)
+[hw3_app_template]: https://docs.google.com/forms/u/1/d/13z62w1GhtP_C2LstkUZCh7Y5SdKC30JZ8_SCUDYcxHo/edit?usp=drive_web
+[hw3_folder]: https://drive.google.com/drive/u/1/folders/1jX-n9gPB_08hcasI5mnQGbmz4ku7CLSV
+[mind_of_undergrad_ta]: https://drive.google.com/file/d/1DP16w5Yr_SUvBoAPK5aHATC0-yqBiLLr/view?usp=share_link
+[ksm_staff_organization]: https://drive.google.com/file/d/1tKyB1hQomCeQhgJ3OqVciTle2UB29iJN/view?usp=share_link
 
 ---
 
@@ -18,9 +23,9 @@ For this assignment, you will be solidifying your interviewing plan and staff ap
 
 Most courses have a supplemental form in addition to the departmental ASE application.
 
-Here is a [<u>template</u>](https://docs.google.com/forms/d/1qzwENpZdtr3R98ZRq0NiiFjT8qF-TE0yuXBYRGQcn6U/edit) to get you started! You should also try to reference the form used last summer for your course.
+Here is a [<u>template</u>][hw3_app_template] to get you started! You should also try to reference the form used last summer for your course.
 
-**Put your form in [<u>this folder</u>](https://drive.google.com/drive/folders/1Yo66T3Pkb7Ul3Yyaq0gztXTseLV7hxEm?usp=share_link). Remember, the whole class has access so make a copy of the form and put it in a private folder when you do use it for hiring.**
+**Put your form in [<u>this folder</u>][hw3_folder]. Remember, the whole class has access so make a copy of the form and put it in a private folder when you do use it for hiring.**
 
 ## Part 2: Interview plan
 
@@ -42,27 +47,26 @@ Make sure to factor in weekly meetings and prep time for staff!
 
 You can leave comments directly on these PDFs in google drive by clicking “Add comment” in the top right corner, highlighting an area you would like to comment on, and then leaving your comment.
 
-- [<u>Inside the Mind of a CS Undergraduate TA</u>](https://drive.google.com/file/d/1Ra2O3NSpPG6xDKMysAav6weD_KOGDWeJ/view?usp=share_link)
+- [<u>Inside the Mind of a CS Undergraduate TA</u>][mind_of_undergrad_ta]
 
-- [<u>How I Organize My Teaching Staff In My 200+ Student Class</u>](https://drive.google.com/file/d/1nQavzESuXta6_qCC_UkJ8QKwWkVNF3Ff/view?usp=share_link)
+- [<u>How I Organize My Teaching Staff In My 200+ Student Class</u>][ksm_staff_organization]
 
 ## Recommended reading
 
 We recommend you read this too! No comments/proof of reading required.
 
-- [<u>Union contract</u>](https://ucnet.universityofcalifornia.edu/labor/bargaining-units/bx/)
+- [<u>Union contract</u>]()
 
   - Especially relevant for hiring: Article 2 Appointment Notification (pages 3 to 7)
 
-## Reviewing each other’s interview plan (Due 10:00 AM, Friday)
+## Reviewing each other’s interview plan (Due 12:00 PM, Friday)
 
 Remember to be kind when commenting, communicating, and critiquing!
 
-Since the interview plans are due 11:59 PM, Wednesday, you will have until 10:00 AM, Friday, to get your comments in.
 
 ## Rubric (Do this for full credit)
 
-- (Team) Created and linked hiring application ([<u>template</u>](https://docs.google.com/forms/d/1qzwENpZdtr3R98ZRq0NiiFjT8qF-TE0yuXBYRGQcn6U/edit)) in the responses document
+- (Team) Created and linked hiring application ([<u>template</u>][hw3_app_template]) in the responses document
 
 - (Team) Wrote interview plan in the responses document
 

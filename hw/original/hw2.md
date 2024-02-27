@@ -8,7 +8,7 @@ CS302, Spring 2023
 
 **Responses:** [**<u>Document</u>**](https://docs.google.com/document/d/1jld0kgt1dPz-w-rKNnlacTq2ExvgZnMrzmUjddAVLHs/edit) , [<u>Responses Folder</u>](https://drive.google.com/drive/folders/1FjNZ_8vn3CleYo4W2Xc2SPN-BaZkuLcB?usp=share_link)
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---
 
 ## Creating your Summer Class Format
 

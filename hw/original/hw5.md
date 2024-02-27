@@ -8,7 +8,7 @@ CS302, Spring 2023
 
 **Responses:** [**<u>Document</u>**](https://docs.google.com/document/d/1bCePWoslLVhFV4leFedd3j3DtNL39a8wR9JauWDO8gM/edit#.)
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---
 
 ## Second half of First Exam Draft (or second quiz!)
 

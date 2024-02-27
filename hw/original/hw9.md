@@ -6,7 +6,7 @@ CS302, Spring 2023
 
 **Responses:** [**<u>Document</u>**](https://docs.google.com/document/d/1xF8Ttd0cH_g4wYxyVelGFRaFoi5UXbZvDwaTKEZgIHo/edit#heading=h.gjdgxs)
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+---
 
 The departmental application priority deadline was in mid-March! Now it is time to start hiring.
 
