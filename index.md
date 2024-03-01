@@ -18,28 +18,28 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 | Week | Date | Class topic | Homework | Due Date |
 |:-----|------|-------------|:---------:|:---------:|
 | 1    | 1/19 | No Meeting | No Homework | (none) |
-| 2    | 1/26 | Info, 302 overview | No Homework | (none) |
-| 3    | 2/2  | Logistics & class formats | [Homework 1][hw1] | (due 2/14) |
-| 4    | 2/09 | Hiring and interviewing | [Homework 2][hw2] | (due 2/21) |
-| 5    | 2/16 | Exam writing and Lecturing | [Homework 3][hw3] | (due 2/28) |
-| 6    | 2/23 | Exams & Proctoring | [Homework 4][hw4] | (due 3/6) |
-| 7    | 3/1  | TBD | [Homework 5][hw5] | (due TBD) |
-| 8    | 3/08 | Academic Misconduct (CSC guest) | [Homework 6][hw6] | (due TBD) |
-| 9    | 3/15 |  DSP, Extensions, Incompletes | [Homework 7][hw7] | (due TBD) |
+| 2    | 1/26 | No Meetings | No Homework | (none) |
+| 3    | 2/02 | Info, 302 overview | No Homework | (none) |
+| 4    | 2/09 | Logistics & class formats | [Homework 1][hw1] | (due 2/14) |
+| 5    | 2/16 | Hiring and interviewing | [Homework 2][hw2] | (due 2/21) |
+| 6    | 2/23 | Exam writing and Lecturing | [Homework 3][hw3] | (due 2/28) |
+| 7    | 3/01 | Exams & Proctoring | [Homework 4][hw4] | (due 3/6) |
+| 8    | 3/08 | (TBD) Academic Misconduct (CSC guest) | [Homework 5][hw5] | (due TBD) |
+| 9    | 3/15 | DSP, Extensions, Incompletes | [Homework 6][hw6] | (due TBD) |
 | 10   | 3/22 | **No Class (SIGCSE)** | No Homework | (none) |
 | 11   | 3/31 | **Spring Break** | No Homework | (none) |
-| 12   | 4/7  | Accessibility & Inclusion | [Homework 8][hw8] | (due TBD) |
-| 13   | 4/14 | Surveys & Final Grading | [Homework 9][hw9] | (due TBD) |
-| 14   | 4/21 | TBD | [Homework 10][hw10] | (due TBD) |
-| 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | TBD | (due TBD) |
-| 16   | 5/5  | RRR Week | No Homework | (none) |
+| 12   | 4/07 | Accessibility & Inclusion | [Homework 7][hw7] | (due TBD) |
+| 13   | 4/14 | Surveys & Final Grading | [Homework 8][hw8] | (due TBD) |
+| 14   | 4/21 | TBD | [Homework 9][hw9] | (due TBD) |
+| 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | [Homework 10][hw10] | (due TBD) |
+| 16   | 5/05 | RRR Week | No Homework | (none) |
 | 17   | 5/12 | Finals Week | No Homework | (none) |
 
 
 [hw1]: /sp24/hw/hw1
 [hw2]: /sp24/hw/hw2
 [hw3]: /sp24/hw/hw3
-[hw4]: https://docs.google.com/document/d/1nq4Yq-gBIUkr3eG8ui5iQI3HiJlXR13dvHOKWL_Pgvg/preview
+[hw4]: /sp24/hw/hw4
 [hw5]: https://docs.google.com/document/d/19GzaFnvlwafGD4rzVbAYSTQCN9F-aLU4YDcoX4agGCM/preview
 [hw6]: https://docs.google.com/document/d/1Re_pn18RIHigO6tHzRcuuXqMLHlRvrgyrLT5OA-odvM/preview
 [hw7]: https://docs.google.com/document/d/1xBIBXpH1yR654XgmY0gBFsAju-yuzbsg2wVdtk2kmjY/preview
