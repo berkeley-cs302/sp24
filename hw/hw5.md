@@ -6,7 +6,7 @@ permalink: /hw/hw5/
 layout: hw
 due_date: Wednesday, March 13, 2024 (+ a few)
 peer_review_date: Friday, March 15, 2024
-responses_doc: https://docs.google.com/document/d/1KJI3VskWAegPHl7U3qUhUBsK1GrIBbYDb3-S_NEGa9A/edit
+responses_doc: https://docs.google.com/document/d/1VAtLyEraZu-FdAPf5ym9AvK6vdxxKYFnBQzRQxfrNXk/edit
 ---
 
 [hw05_proctoring_guidelines]: https://drive.google.com/drive/u/1/folders/1kSg75QcfFhbJVZJ_byRNqYsn5MnFLfrs
