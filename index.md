@@ -40,8 +40,8 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 [hw2]: /sp24/hw/hw2
 [hw3]: /sp24/hw/hw3
 [hw4]: /sp24/hw/hw4
-[hw5]: https://docs.google.com/document/d/19GzaFnvlwafGD4rzVbAYSTQCN9F-aLU4YDcoX4agGCM/preview
-[hw6]: https://docs.google.com/document/d/1Re_pn18RIHigO6tHzRcuuXqMLHlRvrgyrLT5OA-odvM/preview
+[hw5]: /sp24/hw/hw5
+[hw6]: /sp24/hw/hw6
 [hw7]: https://docs.google.com/document/d/1xBIBXpH1yR654XgmY0gBFsAju-yuzbsg2wVdtk2kmjY/preview
 [hw8]: https://docs.google.com/document/d/1Ofa4NmYLlL_XugiBBDjWYxKQBzOS_Z_veNEiTB-P4Kw/preview
 [hw9]: https://docs.google.com/document/d/1jpAWeLPtWuDehENO5zIx6UzT4z1OEyieAIP9UL85m1c/preview
