@@ -28,11 +28,10 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 | 9    | 3/15 | DSP, Extensions, Incompletes | [Homework 6][hw6] | (due TBD) |
 | 10   | 3/22 | **No Class (SIGCSE)** | No Homework | (none) |
 | 11   | 3/31 | **Spring Break** | No Homework | (none) |
-| 12   | 4/07 | Accessibility & Inclusion | [Homework 7][hw7] | (due TBD) |
-| 13   | 4/14 | Surveys & Final Grading | [Homework 8][hw8] | (due TBD) |
-| 14   | 4/21 | TBD | [Homework 9][hw9] | (due TBD) |
-| 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | [Homework 10][hw10] | (due TBD) |
-| 16   | 5/05 | RRR Week | No Homework | (none) |
+| 12   | 4/12 | Grading for Equity | No HW | (Michael Messed up.) |
+| 13   | 4/19 | Accessibility & Inclusion | [Homework 7][hw7] | (due TBD) |
+| 14   | 4/26 | Surveys & Final Grading | [Homework 8][hw8] | (due TBD) |
+| 16   | 5/03 | RRR Week | No Homework | (none) |
 | 17   | 5/12 | Finals Week | No Homework | (none) |
 
 
@@ -42,8 +41,8 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 [hw4]: /sp24/hw/hw4
 [hw5]: /sp24/hw/hw5
 [hw6]: /sp24/hw/hw6
-[hw7]: https://docs.google.com/document/d/1xBIBXpH1yR654XgmY0gBFsAju-yuzbsg2wVdtk2kmjY/preview
-[hw8]: https://docs.google.com/document/d/1Ofa4NmYLlL_XugiBBDjWYxKQBzOS_Z_veNEiTB-P4Kw/preview
+[hw7]: /sp24/hw/hw7
+[hw8]: /sp24/hw/hw8
 [hw9]: https://docs.google.com/document/d/1jpAWeLPtWuDehENO5zIx6UzT4z1OEyieAIP9UL85m1c/preview
 [hw10]: https://docs.google.com/document/d/1uVWoXn7HORUC7CCROphr9dq2hcsU-Kqx4W6MlQ5H4ow/preview
 [hw11]: https://docs.google.com/document/d/1qANVq4eq9awixuokGti2p6vLaaFDrnDv57wE0oonnb4/preview
