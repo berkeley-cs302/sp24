@@ -36,3 +36,5 @@ Find a few things to improve about your syllabus and write it up as a team in th
 - (Individual) Left 1 or more comments on [<u>Misconceptions and Attitudes that Interfere with Learning to Program</u>](https://drive.google.com/file/d/127GkdneEWY8cbMOsgUcFh85rhxQLcQFd/view?usp=sharing)
 
 - (Due 10:00 AM Friday) (Individual) Left 1 or more comments on 2 other courses’ Academic Misconduct Policy on [<u>responses document</u>](https://docs.google.com/document/d/19iX-6gGupjBRUi7aKklWrzgvTva_LlGvWo_Tm7HcmcY/edit#heading=h.29q7tivs0jmk)
+
+- (Team) Audit \#3 writeup on the responses document_
