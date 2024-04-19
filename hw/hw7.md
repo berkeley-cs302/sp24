@@ -60,8 +60,6 @@ Then, for each course instructor, pick a different piece of content on the scale
 
 - (Individual) Audit \#2 writeup for one piece of content per teammate on the responses document
 
-- (Team) Audit \#3 writeup on the responses document_
-
 - (Individual) Left 1 or more comments on [_Three Proposals to Change CS Education to Reduce Inequity_](https://drive.google.com/file/d/1LCG9ZOUAfXELVhpWu32gsIJNEr1Reik0/view?usp=share_link)
 
 - (Individual) Left 1 or more comments on [_CS Ed podcast: Grading for equity_][grading_for_equity_transcript]
