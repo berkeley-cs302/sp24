@@ -28,9 +28,10 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 | 9    | 3/15 | DSP, Extensions, Incompletes | [Homework 6][hw6] | (due TBD) |
 | 10   | 3/22 | **No Class (SIGCSE)** | No Homework | (none) |
 | 11   | 3/31 | **Spring Break** | No Homework | (none) |
-| 12   | 4/12 | Grading for Equity | No HW | (Michael Messed up.) |
-| 13   | 4/19 | Accessibility & Inclusion | [Homework 7][hw7] | (due TBD) |
-| 14   | 4/26 | Surveys & Final Grading | [Homework 8][hw8] | (due TBD) |
+| 12   | 4/01 | Grading for Equity | No HW | (Michael Messed up.) |
+| 13   | 4/12 | Accessibility & Inclusion | [Homework 7][hw7] | (due TBD) |
+| 14   | 4/19 | Logstics / a11y continued | [Homework 8][hw8] | (due TBD) |
+| 15   | 4/26 | Surveys & Final Grading | [Homework 9][hw9] | (due TBD) |
 | 16   | 5/03 | RRR Week | No Homework | (none) |
 | 17   | 5/12 | Finals Week | No Homework | (none) |
 
