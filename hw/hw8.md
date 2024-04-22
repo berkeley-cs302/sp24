@@ -9,8 +9,8 @@ peer_review_date: Friday, April 26, 2024
 responses_doc: https://docs.google.com/document/d/1wJqexvjZCJPWSrJNxOc9byqxyR-XOjpxzBZFBtgJ0mc/edit
 ---
 
-[learning_environments]: https://drive.google.com/file/d/1pw05bJwxy-F95_oetItzwwNN-_AaBLY-/view?usp=sharing
-[misconceptions]: https://drive.google.com/file/d/127GkdneEWY8cbMOsgUcFh85rhxQLcQFd/view?usp=sharing
+[learning_environments]: https://drive.google.com/drive/u/1/folders/1kSg75QcfFhbJVZJ_byRNqYsn5MnFLfrs
+[misconceptions]: https://drive.google.com/file/d/1KqnD7ZgA8WqiikPGY1Z7FL70EYmf2Q4E/view?usp=sharing
 
 # Draft a Syllabus / Course Policies
 
